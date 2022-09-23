@@ -1,0 +1,12 @@
+E:/movie_streams/build/windows/runner/Debug/data/icudtl.dat
+E:/movie_streams/build/windows/runner/Debug/flutter_windows.dll
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/asset/images/1.jpg
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/asset/images/2.jpg
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/asset/images/3.jpg
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/asset/images/4.jpg
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/movie_streams/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
